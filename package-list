@@ -1,11 +1,12 @@
 pacman.game
-pacman.game.actors
 pacman.game.ai
 pacman.game.ai.agents
 pacman.game.ai.astar
 pacman.game.ashley.components
 pacman.game.ashley.systems
+pacman.game.client
 pacman.game.controller
+pacman.game.desktop
 pacman.game.helpers
 pacman.game.model
 pacman.game.views
